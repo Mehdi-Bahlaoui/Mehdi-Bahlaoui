@@ -1,16 +1,33 @@
-## Hi there 👋
+# About Me & What I do here
 
-<!--
-**Mehdi-Bahlaoui/Mehdi-Bahlaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy tinkering and building robotics projects with a focus on control.
+Anything that's real-time systems and includes some sort of algorithm, I love.
+I also like to dive into reliability, and I always focus on understanding first.
+My projects are low-level, most of the time dealing with a microcontroller or processor.
+I believe understanding science is one of the most beautiful things there is.
+Finally, you might see some pastime projects like the Euler Project and the MCPC-2025 repos.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Robotics
+* Embedded systems
+* Systems thinking and optimization
+* Algorithm implementation and optimization
+
+## Current Work
+
+* Decentralized Federated Learning for peer-to-peer systems
+
+## Tech Stack
+
+* Rust, Bash
+* OS: Ubuntu Linux
+
+## Selected Projects
+
+* LED-Matrix V3
+* SSH - NAT traversal
+
+## Contact
+
+* Email: [mehdibahlaoui3@gmail.com](mailto:mehdibahlaoui3@gmail.com)
