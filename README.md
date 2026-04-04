@@ -26,7 +26,7 @@ Finally, you might see some pastime projects like the Euler Project and the MCPC
 ## Selected Projects
 
 * LED-Matrix V3
-* SSH - NAT traversal
+* SSH - NAT traversal (Comming Soon)
 
 ## Contact
 
