@@ -34,5 +34,4 @@ Finally, you might see some pastime projects like the Euler Project and the MCPC
 ## Contact
 
 * Email: [mehdibahlaoui3@gmail.com](mailto:mehdibahlaoui3@gmail.com)
-
-![Alt text](Humanly_Written_BGR_White.png)
+<img src="Humanly_Written_BGR_White.png" width="300" />
