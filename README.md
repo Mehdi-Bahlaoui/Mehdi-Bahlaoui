@@ -8,7 +8,7 @@ My projects are low-level, most of the time dealing with a microcontroller or pr
 
 I believe understanding science is one of the most beautiful things there is.
 
-Finally, you might see some pastime projects like the Euler Project and the MCPC-2025 repos.
+Finally, you might see some pastime projects like the Euler Project.
 
 ## Focus
 
