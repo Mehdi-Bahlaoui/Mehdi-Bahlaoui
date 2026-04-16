@@ -1,14 +1,12 @@
-# About Me & What I do here
+# About Me & What I do
 
 I enjoy tinkering and building robotics projects with a focus on control.
 Anything that's real-time and includes some sort of algorithm, I love.
 
 I also like to dive into reliability, and I always focus on understanding first.
-My projects are low-level, most of the time dealing with a microcontroller or processor.
+My projects are low-level, most of the time having to do with a microcontroller or processor.
 
-I believe understanding science is one of the most beautiful things there is.
-
-Finally, you might see some pastime projects like the Euler Project.
+I believe understanding science is one of the most beautiful things there is :)
 
 ## Focus
 
@@ -19,17 +17,13 @@ Finally, you might see some pastime projects like the Euler Project.
 
 ## Current Work
 
-* Decentralized Federated Learning for peer-to-peer systems
+* Decentralized Federated Machine Learning for Peer-to-Peer systems
 
 ## Tech Stack
 
 * Rust, Bash
 * OS: Ubuntu Linux
 
-## Selected Projects
-
-* LED-Matrix V3
-* SSH - NAT traversal (Coming Soon)
 
 ## Contact
 
