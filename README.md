@@ -12,7 +12,7 @@ I believe understanding science is one of the most beautiful things there is :)
 
 * Robotics
 * Embedded systems
-* Systems thinking and optimization
+* Systems thinking
 * Algorithm implementation and optimization
 
 ## Current Work
