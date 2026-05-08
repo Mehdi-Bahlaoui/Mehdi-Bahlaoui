@@ -24,8 +24,4 @@ I believe understanding science is one of the most beautiful things there is :)
 * Rust, Bash
 * OS: Ubuntu Linux
 
-
-## Contact
-
-* Email: [mehdibahlaoui3@gmail.com](mailto:mehdibahlaoui3@gmail.com)
 <img width="800" alt="Image" src="https://github.com/user-attachments/assets/60784647-ec99-4d29-bf36-3fcd3fdbd83c" />
