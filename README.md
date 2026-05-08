@@ -3,7 +3,6 @@
 I enjoy tinkering and building robotics projects with a focus on control.
 Anything that's real-time and includes some sort of algorithm, I love.
 
-I also like to dive into reliability, and I always focus on understanding first.
 My projects are low-level, most of the time having to do with a microcontroller or processor.
 
 I believe understanding science is one of the most beautiful things there is :)
