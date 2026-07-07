@@ -17,9 +17,4 @@ I believe understanding science is one of the most beautiful things there is!
 
 * Decentralized Federated Machine Learning for Peer-to-Peer systems
 
-## Tech Stack
-
-* Rust, Bash
-* OS: Ubuntu Linux
-
 <img width="800" alt="Image" src="https://github.com/user-attachments/assets/60784647-ec99-4d29-bf36-3fcd3fdbd83c" />
