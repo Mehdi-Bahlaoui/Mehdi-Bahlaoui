@@ -6,13 +6,6 @@ My projects are low-level, most of the time having to do with a microcontroller 
 
 I believe understanding science is one of the most beautiful things there is!
 
-## Focus
-
-* Robotics
-* Embedded systems
-* Systems thinking
-* Algorithm implementation and optimization
-
 ## Current Work
 
 * Decentralized Federated Machine Learning for Peer-to-Peer systems
